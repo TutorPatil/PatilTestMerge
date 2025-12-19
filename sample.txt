@@ -4,3 +4,6 @@ Samplefrombranchfromvscode1
 Sample3
 
 First Squash commit
+
+
+Second squash commit
