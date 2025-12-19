@@ -2,3 +2,5 @@ Sample Text
 Sample1
 Samplefrombranchfromvscode1
 Sample3
+
+First Squash commit
