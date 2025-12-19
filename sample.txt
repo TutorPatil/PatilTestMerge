@@ -7,3 +7,5 @@ First Squash commit
 
 
 Second squash commit
+
+added directly from git
